@@ -104,8 +104,6 @@ function swapColumnsWithMinAndMax(){
       swappedMinAndMax[row][maxColIndex] = temp;
     }
   }
-
-
 }
 
 let myMatrix = matrixArray();
